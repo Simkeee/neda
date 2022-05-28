@@ -1,0 +1,74 @@
+[
+  {
+    "image": "assets\\proizvidi\\slika-1.jpg",
+    "title": "Cvece",
+    "category": "Cvece",
+    "price": 120,
+    "description": "ovo cvece je lepo",
+    "id": 1
+  },
+  {
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "title": "cvece",
+    "category": "Cvece",
+    "price": 200,
+    "description": "cvece",
+    "id": 2
+  },
+  {
+    "image": "assets\\proizvidi\\slika-3.jpg",
+    "title": "cvece ",
+    "category": "Cvece",
+    "price": 21,
+    "description": "oppp",
+    "id": 3
+  },
+  {
+    "image": "assets\\proizvidi\\slika-4.jpg",
+    "title": "dddd",
+    "category": "Dekoracija",
+    "price": 123,
+    "description": "dddddd",
+    "id": 4
+  },
+  {
+    "image": "assets\\proizvidi\\slika-5.jpg",
+    "title": "ffff",
+    "category": "Zastita",
+    "price": 1234,
+    "description": "uuii",
+    "id": 5
+  },
+  {
+    "image": "assets\\proizvidi\\slika-6.jpg",
+    "title": "wewe",
+    "category": "Zastita",
+    "price": 121,
+    "description": "ttt",
+    "id": 6
+  },
+  {
+    "image": "assets\\proizvidi\\slika-7.jpg",
+    "title": "rrr",
+    "category": "Zastita",
+    "price": 300,
+    "description": "uy",
+    "id": 7
+  },
+  {
+    "image": "assets\\proizvidi\\slika-8.jpg",
+    "title": "uuu",
+    "category": "Zastita",
+    "price": 50,
+    "description": "uiu",
+    "id": 8
+  },
+  {
+    "image": "assets\\proizvidi\\slika-9.jpg",
+    "title": "uuu",
+    "category": "Dekoracija",
+    "price": 12,
+    "description": "opop",
+    "id": 9
+  }
+]
